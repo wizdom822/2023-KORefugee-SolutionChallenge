@@ -8,3 +8,8 @@ Currently, refugees are a huge problem around the world. Since 1982, the number 
 we designed this app to help refugees in Korea from the process of filling out the refugee recognition application to the process of settling into Korean society. The app provides a simple process guide to the refugee recognition process and translations of the documents to be submitted so that users can get information about the refugee recognition process. If you are not from one of the four countries, we provide real-time image and document translation so that you can view the translation in your preferred language. The app includes a feature that allows users to learn basic vocabulary in essential areas such as law, daily life, and healthcare. With this app, we hope to help refugees with their resettlement by focusing on the linguistic aspect of the process.
 
 # 🐣Goals
+![image](https://user-images.githubusercontent.com/117229525/229240072-a62d7452-67ec-49f5-bf6d-bce7c3b20005.png)
+We started this project because we don't want refugees to be discriminated against by being treated unequally because they are not good at Korean, and we tried to implement features to help them. We chose two sustainable development goals: reduced inequality and peace, justice and strong institutions, because we want refugees and Koreans to live in a world where they can coexist peacefully together and be equal.
+
+# 🐣Tech Architecture
+![image](https://user-images.githubusercontent.com/117229525/229240348-f733b02e-1260-4f06-a420-006eeae86c4c.png)
