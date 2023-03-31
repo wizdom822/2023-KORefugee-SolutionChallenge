@@ -17,6 +17,9 @@ We started this project because we don't want refugees to be discriminated again
 
 # 🐣Team Members
 🥚Hyojung Choi
+
 🐤Jihye Lee
+
 🐥Seohyun Lee
+
 🐓Yerim Lee
