@@ -14,3 +14,9 @@ We started this project because we don't want refugees to be discriminated again
 
 # 🐣Tech Architecture
 ![image](https://user-images.githubusercontent.com/117229525/229240348-f733b02e-1260-4f06-a420-006eeae86c4c.png)
+
+# 🐣Team Members
+🥚Hyojung Choi
+🐤Jihye Lee
+🐥Seohyun Lee
+🐓Yerim Lee
