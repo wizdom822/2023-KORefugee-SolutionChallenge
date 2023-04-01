@@ -22,7 +22,7 @@ link
 images
 
 # 🐣Team Members
-🥚Hyojung Choi
+🥚HyoJeong Choi
 
 🐤Jihye Lee
 
