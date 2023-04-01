@@ -17,7 +17,7 @@ We started this project because we don't want refugees to be discriminated again
 
 
 # 🐣Demo Video
-https://www.youtube.com/watch?v=BVP6mjw31bY
+https://youtu.be/RuoisrCNfbY
 ![image](https://user-images.githubusercontent.com/117229525/229264280-2980ad14-c7e5-4a3a-9f95-c8686e16e8e4.png)
 
 # 🐣How to Use
