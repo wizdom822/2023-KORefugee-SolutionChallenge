@@ -24,10 +24,10 @@ https://www.youtube.com/watch?v=BVP6mjw31bY
 images
 
 # 🐣Team Members
-🥚Hyojung Choi
+🥚 BackEnd Developer_ HyoJeong Choi
 
-🐤Jihye Lee
+🐤UI/UX Designer_ Jihye Lee
 
-🐥Seohyun Lee
+🐥AI/ML Developer_ Seohyun Lee
 
-🐓Yerim Lee
+🐓FrontEnd Developer_ Yerim Lee
