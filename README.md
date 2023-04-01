@@ -22,10 +22,10 @@ link
 images
 
 # 🐣Team Members
-🥚HyoJeong Choi
+🥚BackEnd Developer_ HyoJeong Choi
 
-🐤Jihye Lee
+🐤UX/UI Designer_ Jihye Lee
 
-🐥Seohyun Lee
+🐥AI/ML Developer_ Seohyun Lee
 
-🐓Yerim Lee
+🐓FrontEnd Developer_ Yerim Lee
