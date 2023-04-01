@@ -16,16 +16,17 @@ We started this project because we don't want refugees to be discriminated again
 ![image](https://user-images.githubusercontent.com/117229525/229240348-f733b02e-1260-4f06-a420-006eeae86c4c.png)
 
 # 🐣Demo Video
-link
+https://www.youtube.com/watch?v=BVP6mjw31bY
+![image](https://user-images.githubusercontent.com/117229525/229264280-2980ad14-c7e5-4a3a-9f95-c8686e16e8e4.png)
 
 # 🐣How to Use
 images
 
 # 🐣Team Members
-🥚BackEnd Developer_ HyoJeong Choi
+🥚Hyojung Choi
 
-🐤UX/UI Designer_ Jihye Lee
+🐤Jihye Lee
 
-🐥AI/ML Developer_ Seohyun Lee
+🐥Seohyun Lee
 
-🐓FrontEnd Developer_ Yerim Lee
+🐓Yerim Lee
