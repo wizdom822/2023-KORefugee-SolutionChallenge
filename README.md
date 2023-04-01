@@ -13,7 +13,8 @@ we designed this app to help refugees in Korea from the process of filling out t
 We started this project because we don't want refugees to be discriminated against by being treated unequally because they are not good at Korean, and we tried to implement features to help them. We chose two sustainable development goals: reduced inequality and peace, justice and strong institutions, because we want refugees and Koreans to live in a world where they can coexist peacefully together and be equal.
 
 # 🐣Tech Architecture
-![image](https://user-images.githubusercontent.com/117229525/229240348-f733b02e-1260-4f06-a420-006eeae86c4c.png)
+![image](<img width="483" alt="아키텍처" src="https://user-images.githubusercontent.com/63584457/229264455-4459b597-a3bd-4ce9-bd41-06475a31946a.png">)
+
 
 # 🐣Demo Video
 https://www.youtube.com/watch?v=BVP6mjw31bY
